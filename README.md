@@ -21,6 +21,6 @@ Here are some ideas to get you started:
 ## Status
 ![OdagakiHiroki's GitHub stats](https://github-readme-stats.vercel.app/api?username=OdagakiHiroki&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OdagakiHiroki&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OdagakiHiroki&layout=pie&cachesinaide)](https://github.com/anuraghazra/github-readme-stats)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=OdagakiHiroki)](https://github.com/ryo-ma/github-profile-trophy)
