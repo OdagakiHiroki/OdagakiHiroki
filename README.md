@@ -1,4 +1,4 @@
-### Hi there 👋
+<!-- ### Hi there 👋 -->
 
 <!--
 **OdagakiHiroki/OdagakiHiroki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## My Skill
+<img src="https://skillicons.dev/icons?i=ts,js,react,redux,nextjs,go,php,express,nestjs,nodejs,docker,git,github,postgres,mysql,vscode" />
+
+## Status
+![OdagakiHiroki's GitHub stats](https://github-readme-stats.vercel.app/api?username=OdagakiHiroki&show_icons=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OdagakiHiroki&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=OdagakiHiroki)](https://github.com/ryo-ma/github-profile-trophy)
